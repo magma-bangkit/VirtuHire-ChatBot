@@ -25,7 +25,6 @@ How to install :
 1. Download the repository
 ```bash
 $ git clone https://github.com/magma-bangkit/VirtuHire-ChatBot.git
-requirements.txt
 ```
 2. Install the required Python dependencies listed in requirements.txt.
 3. Upload the notebook to google colab or use your local jupyter notebook.
