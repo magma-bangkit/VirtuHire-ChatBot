@@ -21,29 +21,19 @@ Here is what you need to be able to run this repo
 
 ## Installation
 
-How to install : (replace code below)
+How to install :
 
 ```bash
 $ git clone https://github.com/magma-bangkit/VirtuHire-ChatBot.git
 $ cd VirtuHire-ChatBot
 $ pip install -r requirements.txt
+
+Upload the notebook to google colab or use your local jupyter notebook.
+Open the notebook using jupyter notebook or google colab
+Run each cells (make sure already install the packages and libraries)
 ```
 
-## Usage
 
-Provide examples and instructions on how to use the project. This can include code snippets or usage scenarios to help users understand the project's functionality. If applicable, provide screenshots or GIFs to visually demonstrate the usage. (replace this)
-
-```javascript
-// Add code examples here
-```
-
-## Features
-
-Highlight the main features of the project. Enumerate the functionalities and explain how they can be useful to the users. You can also provide a bullet-point list or a table to summarize the features.
-
-- Feature 1
-- Feature 2
-- Feature 3
 
 ## Acknowledgements
 
