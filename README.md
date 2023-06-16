@@ -24,9 +24,9 @@ Here is what you need to be able to run this repo
 How to install : (replace code below)
 
 ```bash
-$ git clone https://github.com/your-username/your-repo.git
-$ cd your-repo
-$ npm install
+$ git clone https://github.com/magma-bangkit/VirtuHire-ChatBot.git
+$ cd VirtuHire-ChatBot
+$ pip install -r requirements.txt
 ```
 
 ## Usage
