@@ -27,11 +27,10 @@ How to install :
 $ git clone https://github.com/magma-bangkit/VirtuHire-ChatBot.git
 $ cd VirtuHire-ChatBot
 $ pip install -r requirements.txt
-
+```
 Upload the notebook to google colab or use your local jupyter notebook.
 Open the notebook using jupyter notebook or google colab
 Run each cells (make sure already install the packages and libraries)
-```
 
 
 
